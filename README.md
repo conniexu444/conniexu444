@@ -1,6 +1,8 @@
 ### Hiya! 👋
 * My name is Connie (she/her/hers). 
 
+![](https://raw.githubusercontent.com/conniexu444/conniexu444/master/conniegithubheader.jpg)
+
 #### What I am currently working on:
 * 🎓 Good question, it's been a whole lot of full-time school for me at Stevens Institute of Technology.
 
