@@ -9,7 +9,8 @@
 
 
  #### Ohhh... look what I've been up to...
-![Connie's github stats](https://github-readme-stats.vercel.app/api?username=conniexu444&show_icons=true&theme=buefy)
+![Connie's github stats](https://github-readme-stats.vercel.app/api?username=conniexu444&show_icons=true&theme=buefy)  
+<sub><sup>[thank you anuraghazra](https://github.com/anuraghazra/github-readme-stats#themes)</sup></sub>
 
 #### You can also find me at:
 [![Linkedin Badge](https://img.shields.io/badge/-constancexu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/constancexu/)](https://www.linkedin.com/in/constancexu/)
