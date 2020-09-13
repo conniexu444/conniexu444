@@ -1,17 +1,18 @@
 ### Hi there 👋
+* My name is Connie (she/her/hers). 
 
-<!--
-**conniexu444/conniexu444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I am currently working on:
+* 🎓 Good question, it's been a whole lot of full-time school for me at Stevens Institute of Technology.
 
-Here are some ideas to get you started:
+#### I love working with:
+* 💻 Python
+* 💻 Java
+* 💻 C++
+* 💻 HTML/CSS/JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Connie (she/her/hers)! 😄 I am pursuing a computer science degree at Stevens Institute of Technology. 
+ #### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=conniexu444)](https://github.com/conniexu444)
+
+#### You can also find me at:
+ 💼 [LinkedIn](https://www.linkedin.com/in/constance-xu/) | 📧 [Email](mailto:cxu16@stevens.edu)
+ 
