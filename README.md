@@ -10,9 +10,15 @@
 * 💻 C++
 * 💻 HTML/CSS/JavaScript
 
- #### Stats
+ #### Ohhh... look what I've been up to...
 [![Stats](https://github-readme-stats.vercel.app/api?username=conniexu444)](https://github.com/conniexu444)
 
 #### You can also find me at:
- 💼 [LinkedIn](https://www.linkedin.com/in/constancexu/) | 📧 [Email](mailto:cxu16@stevens.edu)
- 
+💼 [LinkedIn](https://www.linkedin.com/in/constancexu/) | 📧 [Email](mailto:cxu16@stevens.edu)
+
+#### Things I do for fun:
+* 🌸 Play Call of Duty Warzone
+* 🌸 Exercise! Go for runs!
+* 🌸 Spend time with my doggo 🐶
+* 🌸 Go on hikes with my family
+* 🌸 Watch too many Ted Talks at 2 AM 😅
