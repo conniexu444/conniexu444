@@ -15,7 +15,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=conniexu444)](https://github.com/conniexu444)
 
 #### You can also find me at:
-💼 [LinkedIn](https://www.linkedin.com/in/constancexu/) | 📧 [Email](mailto:cxu16@stevens.edu)
+💼 [LinkedIn](https://www.linkedin.com/in/constancexu/) | 📧 [Email](mailto:cxu16@stevens.edu) | 🌷 [Medium](https://medium.com/@cxu16)
 
 #### Things I do for fun:
 * 🌸 Play Call of Duty Warzone
