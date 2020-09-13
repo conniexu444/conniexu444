@@ -1,8 +1,9 @@
 
 ![](https://raw.githubusercontent.com/conniexu444/conniexu444/master/conniegithubheader.jpg)
-### Hiya! 👋 My name is Constance(she/her/hers), but I go by Connie. 
+### Hiya! 🌷 My name is Constance(she/her/hers), but I go by Connie. 🌺
 #### What I am currently working on:
 * 🎓 Good question, it's been a whole lot of full-time school for me at Stevens Institute of Technology.
+* 💖 I plan on doing more coding projects and writing more Medium articles!
 
 #### I love working with:
 * 💻 Python
