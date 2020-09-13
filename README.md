@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya! 👋
 * My name is Connie (she/her/hers). 
 
 #### What I am currently working on:
@@ -14,5 +14,5 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=conniexu444)](https://github.com/conniexu444)
 
 #### You can also find me at:
- 💼 [LinkedIn](https://www.linkedin.com/in/constance-xu/) | 📧 [Email](mailto:cxu16@stevens.edu)
+ 💼 [LinkedIn](https://www.linkedin.com/in/constancexu/) | 📧 [Email](mailto:cxu16@stevens.edu)
  
