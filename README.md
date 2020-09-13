@@ -8,7 +8,7 @@
 * 💻 HTML/CSS/JavaScript
 
  #### Ohhh... look what I've been up to...
-[![Stats](https://github-readme-stats.vercel.app/api?username=conniexu444)](https://github.com/conniexu444)
+![Connie's github stats](https://github-readme-stats.vercel.app/api?username=conniexu444&theme=buefy_icons=true)
 
 #### You can also find me at:
 [![Linkedin Badge](https://img.shields.io/badge/-constancexu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/constancexu/)](https://www.linkedin.com/in/constancexu/)
