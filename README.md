@@ -7,6 +7,7 @@
 * 💻 C++
 * 💻 HTML/CSS/JavaScript
 
+
  #### Ohhh... look what I've been up to...
 ![Connie's github stats](https://github-readme-stats.vercel.app/api?username=conniexu444&show_icons=true&theme=buefy)
 
