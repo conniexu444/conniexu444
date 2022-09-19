@@ -1,7 +1,7 @@
 
-![](https://raw.githubusercontent.com/conniexu444/conniexu444/master/conniegithubheader.jpg)
 ## <div align="center"> Hiya! 🌷 My name is Constance(she/her/hers), but I go by Connie. 🌺🌈 </div>
 #### I love working with:
+* 💻 C#
 * 💻 Python
 * 💻 Java
 * 💻 C++
