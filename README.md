@@ -1,5 +1,5 @@
 
-## <div align="center"> Hiya! 🌷 My name is Constance(she/her/hers), but I go by Connie. 🌺🌈 </div>
+## <div align="center"> Hiya! 🌷 My name is Connie! </div>
 #### I love working with:
 * 💻 C#
 * 💻 Python
