@@ -1,15 +1,17 @@
 
-## <div align="center"> Hiya! 🌷 My name is Connie! </div>
-#### I love working with:
-* 💻 C#
-* 💻 Python
-* 💻 Java
-* 💻 C++
-* 💻 HTML/CSS/JavaScript
+## <div align="center"> Hiya, it is nice to meet you 🐙</div>
 
-#### Things I do for fun:
-* 🌸 Play Call of Duty Warzone
-* 🌸 Exercise! Go for runs!
-* 🌸 Spend time with my doggo 🐶
-* 🌸 Go on hikes with my family
-* 🌸 Watch too many Ted Talks at 2 AM 😅
+## About Me
+* My name is Connie and I am passionate about coding and technology.
+* I am currently working as a backend software engineer at Microsoft.
+* I work with (but not limited to) Python, C#, Microsoft Azure, Kusto, Git, Cosmos DB, and Docker.
+* I got my B.S. in Computer Science in December 2021, graduating with high honors.
+
+## Projects
+* [Jim-App](https://github.com/conniexu444/jim-app) - A fullstack web application dedicated to helping you track your workouts.
+* [History-Mapper](https://github.com/HistoryMapper) - Contributions to the wonderful [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=conniexu444&theme=dark" alt="My Stats"/>
+</p>
