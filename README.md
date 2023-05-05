@@ -1,5 +1,5 @@
 
-## <div align="center"> Hiya, it is nice to meet you 🐙</div>
+## <div align="center"> Hi, it is SO nice to meet you 🐙</div>
 
 ## About Me
 * My name is Connie and I am passionate about coding and technology.
@@ -8,8 +8,8 @@
 * I got my B.S. in Computer Science in December 2021, graduating with high honors.
 
 ## Projects
-* [Jim-App](https://github.com/conniexu444/jim-app) - A fullstack web application dedicated to helping you track your workouts.
-* [History-Mapper](https://github.com/HistoryMapper) - Contributions to the wonderful [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
+* [Jim App](https://github.com/conniexu444/jim-app) - A fullstack web application dedicated to helping you track your workouts.
+* [History Mapper](https://github.com/HistoryMapper) - Contributions to the wonderful [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
 
 
 <p align="center">
