@@ -4,7 +4,6 @@
 ## About Me
 * My name is Connie and I am passionate about coding and technology.
 * I am currently working as a backend software engineer at Microsoft.
-* I work with (but not limited to) Python, C#, Microsoft Azure, Kusto, Git, Cosmos DB, and Docker.
 * I got my B.S. in Computer Science in December 2021, graduating with high honors.
 
 ## Projects
