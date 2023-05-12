@@ -8,6 +8,7 @@
 * I got my B.S. in Computer Science in December 2021, graduating with high honors.
 
 ## Projects
+* [VSCode Extension Tell Me A Programming Joke](https://github.com/conniexu444/vscode-tell-me-a-joke) - A vscode extension that will tell you a programming joke once installed.
 * [Jim App](https://github.com/conniexu444/jim-app) - A fullstack web application dedicated to helping you track your workouts.
 * [History Mapper](https://github.com/HistoryMapper) - Contributions to the wonderful [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
 
