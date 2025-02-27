@@ -1,16 +1,1 @@
-
-## <div align="center"> Hi, it is SO nice to meet you 🐙</div>
-
-## About Me
-* My name is Connie and I am passionate about coding and technology.
-* I am currently working as a backend software engineer at Microsoft.
-* I got my B.S. in Computer Science in December 2021, graduating with high honors.
-
-## Projects
-* [Jim App](https://github.com/conniexu444/jim-app) - A fullstack web application dedicated to helping you track your workouts.
-* [History Mapper](https://github.com/HistoryMapper) - Contributions to the wonderful [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=conniexu444&theme=dark" alt="My Stats"/>
-</p>
+## i like crafts and code
